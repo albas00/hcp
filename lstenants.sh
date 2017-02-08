@@ -6,16 +6,16 @@
 # 
 #         USAGE: ./lstenants.sh 
 # 
-#   DESCRIPTION: 
+#   DESCRIPTION: Listado de Capacidad de todos los Tenants del OESTE
 # 
 #       OPTIONS: ---
 #  REQUIREMENTS: ---
 #          BUGS: ---
 #         NOTES: ---
-#        AUTHOR: YOUR NAME (), 
+#        AUTHOR: Alberto Bastos 
 #  ORGANIZATION: 
-#       CREATED: 01/11/2017 10:29
-#      REVISION:  ---
+#       CREATED: 08/02/2017
+#      REVISION:  1.0
 #===============================================================================
 
 set -o nounset                              # Treat unset variables as an error
